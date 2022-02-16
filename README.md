@@ -10,7 +10,12 @@ This is Transaction Application include Api Only Using Laravel Framework
 
 ## Install
 
+    git clone https://github.com/mahmoud-adel44/transaction-api.git
+
     composer install
+
+    php artisan key:generate
+
 
 ## Run the app
 
