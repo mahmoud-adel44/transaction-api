@@ -1,7 +1,12 @@
 # REST API Transaction App
 
-This is a Transaction App example of this application providing a REST
-API 
+This is Transaction Application include Api Only Using Laravel Framework
+
+## Features
+
+- Sign in / Sign UP
+- crud operations for categories
+- crud operations for Transactions
 
 ## Install
 
